@@ -26,6 +26,6 @@
 
 參考文獻：
 1. 來揚科技官網 http://www.lyontek.com.tw/
-2. USB轉UART晶片CH340G資料手冊 www.datasheet5.com/pdf-local-2195953
+2. USB轉UART晶片CH340G資料手冊 http://www.datasheet5.com/pdf-local-2195953
 3. LCD驅動晶片ILI9225資料手冊 http://www.displayfuture.com/Display/datasheet/controller/ILI9225.pdf
 4. Arduino Pro Mini官方資料 https://store.arduino.cc/usa/arduino-pro-mini
