@@ -22,7 +22,7 @@
 
 本專案目前仍有許多不足的地方有待各位自由發揮，後續如有任何想法或者在實作上遇到任何問題歡迎在下方留言，我會儘我所能回答大家。當然如果有人有興趣把本專案開發成真正的商品，不管是自行發展或找我合作都很歡迎。
 
-作者：歐尼克斯實境互動工作室 [https://omnixri.blogspot.tw/](https://omnixri.blogspot.tw/){:target="_blank"} (Jan. 2018)
+作者：歐尼克斯實境互動工作室 [](https://omnixri.blogspot.tw/ target="_blank") (Jan. 2018)
 
 參考文獻：
 1. 來揚科技官網 http://www.lyontek.com.tw/
