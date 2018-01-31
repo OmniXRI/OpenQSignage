@@ -24,7 +24,7 @@
 1. 硬體設計  
 1.1 零件清單  
 1.2 電路圖  
-1.3 主要零件使用補充說明  
+1.3 主要零件使用補充說明   
     A. Arduino Pro Mini  
     B. LCD模組  
     C. Lyontek PSRAM  
