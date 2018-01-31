@@ -21,6 +21,7 @@
 
 更完整說明請參考[OpenQSignage開源迷你電子看板專案說明文件](https://github.com/OmniXRI/OpenQSignage/wiki/OpenQSignage%E9%96%8B%E6%BA%90%E8%BF%B7%E4%BD%A0%E9%9B%BB%E5%AD%90%E7%9C%8B%E6%9D%BF(Arduino-LCD%E5%8B%95%E7%95%AB%E8%83%B8%E7%89%8C)%E5%B0%88%E6%A1%88%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6)
 
+1. 硬體設計  
 1.1 零件清單  
 1.2 電路圖  
 1.3 主要零件使用補充說明  
